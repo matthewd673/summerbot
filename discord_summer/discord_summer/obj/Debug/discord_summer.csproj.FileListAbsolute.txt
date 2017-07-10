@@ -1,0 +1,10 @@
+c:\users\matthew\documents\visual studio 2017\Projects\discord_summer\discord_summer\bin\Debug\discord_summer.exe.config
+c:\users\matthew\documents\visual studio 2017\Projects\discord_summer\discord_summer\bin\Debug\discord_summer.exe
+c:\users\matthew\documents\visual studio 2017\Projects\discord_summer\discord_summer\bin\Debug\discord_summer.pdb
+c:\users\matthew\documents\visual studio 2017\Projects\discord_summer\discord_summer\bin\Debug\DSharpPlus.dll
+c:\users\matthew\documents\visual studio 2017\Projects\discord_summer\discord_summer\bin\Debug\Newtonsoft.Json.dll
+c:\users\matthew\documents\visual studio 2017\Projects\discord_summer\discord_summer\bin\Debug\DSharpPlus.xml
+c:\users\matthew\documents\visual studio 2017\Projects\discord_summer\discord_summer\bin\Debug\Newtonsoft.Json.xml
+c:\users\matthew\documents\visual studio 2017\Projects\discord_summer\discord_summer\obj\Debug\discord_summer.csprojResolveAssemblyReference.cache
+c:\users\matthew\documents\visual studio 2017\Projects\discord_summer\discord_summer\obj\Debug\discord_summer.exe
+c:\users\matthew\documents\visual studio 2017\Projects\discord_summer\discord_summer\obj\Debug\discord_summer.pdb
